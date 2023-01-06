@@ -16,152 +16,14 @@
           Orgulhamo-nos do serviço ao cliente e queremos tornar a sua estadia a melhor possível.
         </p>
       </div>
-      <div>
-        <h2>Nossos Serviços</h2>
-        <p>O Hotel conta com o melhor da gastronomia, com peixes e diversos frutos  
-            do mar. o cardapio do Hotel tambem conta com pratos tradicionais alem de refeições infantis e de baixa caloria.
-        </p>
-      </div>
-      <div class="flex">
-        <div>
-          <h3>Gazebos</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/gazebo.jpg" alt="gazebos"></a>
-          <p>Localizado á 50 mtrs da praia de Ubatuba, o CASA NA PRAIA possui serviços de gazebos a beira mar.
-            Além de pedidos que serão preparados direto pela cozinha do Hotel, mantendo a qualidade e
-            higiene
-            dos alimentos.</p>
-        </div>
-        <div>
-          <h3>Piscinas-Bar</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/piscinas-bar.jpg" alt="piscinas-bar"></a>
-          <p>Anexo a piscina esta o Point bar do nosso hotel, um bar ao lado da piscina que atende aos
-            hospedes de
-            forma exclusiva com Drinks, Bebidas, Lanches e Porções.</p>
-        </div>
-        <div>
-          <h3>Piscinas</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/piscinas.jpg" alt="piscinas"></a>
-          <P>Proporcionando lazer a toda familia nossa piscina é extensa é uma otima opção para quem quer
-            aproveitar as ferias dentro das dependencias do Hotel com tranqilidade.</P>
-        </div>
-        <div>
-          <h3>Lazer</h3>
-          <a href="/root/pages/formulario.html#/Reservas"> <img src="../assets/lazer.jpg" alt="lazer"></a>
-          <p>No Hotel Casa na Praia as crianças tambem tem vez. O hotel possui um playground totalmente
-            interativo, com monitores proporcionando brincadeiras e atividades para os pequenos.</p>
-        </div>
-        <div>
-          <h3>Brinquedoteca</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/brinquedoteca.jpg" alt="brinquedoteca"></a>
-          <P>Na brinquedoteca as crianças aprendem brincando durante as férias. O ambiente é voltado
-            totalmente
-            para o entretenimento infantil, estimulando atividades individuais e em grupo.</P>
-        </div>
-        <div>
-          <h3>Turismo</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/cachoeiras.jpg" alt="cachoeiras"></a>
-          <p>Para que nossos hospedes possam aproveitar ao maximo todas as atrações de Ubatuba, o Casa na
-            Praia
-            possui um programa de guia turistico proporcionando passeios únicos e inesquecíveis.</p>
-        </div>
-      </div>
-      <div>
-        <h2>GASTRONOMIA</h2>
-        <p>O Hotel conta com o melhor da gastronomia, com peixes e diversos frutos
-          do mar. o cardapio do Hotel tambem conta com pratos tradicionais alem de refeições infantis e de
-          baixa caloria.
-        </p>        
-      </div>
-      <div class="flex">
-        <div>
-          <h3>Saboreie nossa Culinaria</h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/buffet.jpg" alt="Buffet"></a>
-          <p>Um Buffet completo, entre massas, carnes, peixes e aves nossas refeições são balanceadas por
-            nutricionistas especializados, para proporcionar toda a satisfação para o hóspede.</p>
-        </div>
-        <div>
-          <h3><b>Lanches e Porções</b></h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/lanches.jpg" alt="lanches"></a>
-          <p>Uma vasta variedade de Lanches e Porções feitos com produtos de excelente qualidade, porções
-            tipicas, e lanches artesanais feitos feitos na brasa, mantendo assim o sabor natural do
-            alimento
-            e acrescentando aquele sabor inconfundivel de churrasco.</p>
-        </div>
-        <div>
-          <h3><b>Drinks e Sucos</b></h3>
-          <a href="/root/pages/formulario.html#/Reservas"><img src="../assets/drinks.jpg" alt="drinks"></a>
-          <p>Frutas selecionadas da mais alta qualidade diretamente do produtor, proporcionando alimentos
-            frescos e saudaveis possibilitando um melhor preparo de Drinks e Sucos.</p>
-        </div>
-      </div>
-      <div>
-        <h2>CONHEÇA NOSSAS SUITES</h2>
-        <p>O Hotel conta com o melhor da gastronomia, com peixes e diversos frutos
-          do mar. o cardapio do Hotel tambem conta com pratos tradicionais alem de refeições infantis e de
-          baixa
-          caloria.
-        </p>
-      </div>
-      <div class="flex">          
-        <div>  
-          <h3>Quarto Premium Casal</h3>  
-          <a href="/root/pages/acomodacoes.html#/Reservas"><img src="../assets/room3_basic.jpg" alt="Quarto03"></a>
-          <p></p>
-        </div>  
-        <div>
-          <h3><b>Quarto Premium Solteiro</b></h3>  
-          <a href="/root/pages/acomodacoes.html#/Reservas"><img src="../assets/room4_basic.jpg" alt="Quarto01"></a>
-          <p></p>
-        </div>  
-        <div>
-          <h3><b>Quarto Família</b></h3>  
-          <a href="/root/pages/acomodacoes.html#/Reservas"><img src="../assets/room02_family.jpg" alt="Quarto02"></a>
-          <p></p>
-        </div>
-      </div>
-      <div>
-        <h2 class="efeito">Mural dos Hospedes</h2>
-        <p>O Hotel conta com o melhor da gastronomia, com peixes e diversos frutos
-        do mar. o cardapio do Hotel tambem conta com pratos tradicionais alem de refeições infantis e de
-        baixa
-        caloria.
-        </p>
-      </div>
-      <div class="flex">          
-          <div class="mural">
-            <h4>FÉRIAS EM FAMÍLIA</h4>
-  
-            <img src="../assets/familia.jpg" alt="familia">
-            <q> Foram as férias de nossas vidas, as crianças amaram, e o meu esposo e eu pudemos ter
-              momentos
-              relaxantes e ver nossos filhos se divertindo e interagindo com outras crianças, o serviço é
-              formidavel, as refeições são excelentes e com um cardapio amplamente variado </q>
-  
-            <p>Carmen Lucia, 36 anos.</p>
-          </div>
-  
-          <div class="mural">
-            <h4>LUA DE MEL</h4>
-  
-            <img src="../assets/noivos.jpg" alt="noivos">
-            <q> Eu quis fazer uma surpresa para minha esposa, contratei o pacote Lua de Mel, para comemorar
-              nosso casamento, ja na chegada minha esposa recebeu um lindo buque de rosas, com certeza
-              voltaremos pra comemorar nossas bodas com vocês </q>
-            <p>Daniel Fagundes, 29 anos.</p>
-          </div>
-  
-          <div class="mural">
-            <h4>MELHOR IDADE</h4>
-  
-            <img src="../assets/melhor_idade.jpg" alt="melhor_idade">
-            <q> Minha filha disse mãe, vou marcar uma viajem pra senhora sair um pouco, e descobri um lugar
-              com
-              uma total extrutura para terceira idade, com aulas de hidroginastica, rampas de acesso e os
-              monitores tão zelosos e atenciosos, não vejo a hora de voltar, beijos a todos </q>
-            <p>Maria Heloisa, 69 anos.</p>
-          </div>
-      </div>
-      <div>
+      
+      <MainServicos/>
+      <MainGastronomia/>
+      <MainAcomodacoes/>
+      <br>
+      <hr>
+      <MainMural/>
+      <div>     
         <h3>Nossa Localização</h3>
         <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.187389827689!2d-45.0746653!3d-23.489759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cd57471e9de3c7%3A0x6d421826e100f11b!2sHOTEL%20CASA%20NA%20PRAIA!5e0!3m2!1spt-BR!2sbr!4v1664833770590!5m2!1spt-BR!2sbr"
@@ -173,9 +35,21 @@
 </template>
 
 <script>
+
+import MainMural from './home/MainMural'
+import MainGastronomia from './home/MainGastronomia'
+import MainServicos from './home/MainServicos'
+import MainAcomodacoes from './home/MainAcomodacoes'
+
+
 export default {
   name: 'HomeMain',
-  components: {
+  components: { 
+    MainMural,
+    MainGastronomia,
+    MainServicos,
+    MainAcomodacoes,
+    
   }
 }
 
@@ -229,23 +103,11 @@ export default {
 }
 
 img{
-  max-width: 100%;
+  max-width: 50%;
   display: block;
   border-radius: 20px;
+  border: 3px solid blue;
 }
-
-.flex{
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 90%;
-  margin: 0 5%;  
-}
-
-.flex > div{
-  flex: 1 1 420px;
-  margin: 10px;
-}
-
 
 
 .botaoreserva {

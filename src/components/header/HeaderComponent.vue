@@ -19,7 +19,8 @@
                                 <input class="button" type="submit" value="OK" />
                                 <br />
                                 <router-link to="/Cadastro">Cadastre-se!</router-link>
-                                <a class="links" href="">Esqueceu sua senha?</a>
+                                
+                                <a class="link" href="../home/ModalSenha">Esqueceu sua senha?</a>
                             </form>
                         </div>
                     </ul>
@@ -39,7 +40,7 @@
                     <input class="button btnLogin" v-on:click="validate" type="button" value="OK" id="btnLogin" />
                     <br />
                     <router-link to="/Cadastro">Cadastre-se!</router-link>
-                    <a class="links" href="">Esqueceu sua senha?</a>
+                    <a class="links" href="../home/ModalSenha">Esqueceu sua senha?</a>
                 </form>
             </div>
             <div class="logedin hide">
@@ -51,6 +52,8 @@
 </template>
 
 <script>
+import ModalSenha from '../home/ModalSenha'
+
 export default {
     name: "HeaderComponent",
     data(){
@@ -61,7 +64,8 @@ export default {
             regexPswd : /[A-Za-z0-9]{8,14}/g,
             loged : localStorage.getItem('loged'),
             logedin : localStorage.getItem('loginStatus'),
-            btnExit : document.getElementById('btnExit')
+            btnExit : document.getElementById('btnExit'),
+            ModalSenha
         }
     },
     methods:{
