@@ -32,11 +32,6 @@
 </template>
 
 <script>
-
-
-
-
-
   
 export default {
     name:'MainMural',
